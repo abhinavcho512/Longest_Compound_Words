@@ -2,7 +2,7 @@ Longest Compound Words
 
 Impledge Technologies Interview Coding Test 2025
 
-The problem statement for this challenge can be found in the Exercise_Fresher_Word_Problem.pdf file.
+The problem statement for this challenge can be found in the [Exercise_Fresher_Word_Problem.pdf](https://github.com/abhinavcho512/Longest_Compound_Words/blob/main/Exercise_Fresher_Word_Problem.pdf) file.
 
 Code Execution Procedure
 
