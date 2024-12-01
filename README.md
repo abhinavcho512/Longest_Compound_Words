@@ -12,12 +12,14 @@ This solution requires Java 8 or newer to run. To execute the program, follow th
 	3.	In the file, locate the code segment where the input file path is specified. Modify the path to the location of the input file relative to the 
                 solution file.
 	
+
+ 
  4.	Compile the code using the following command:
 
 
 
 
-   	javac  Trie.java  Solution.java
+   	     javac  Trie.java  Solution.java
 
 
 5.	Run the Solution with:
