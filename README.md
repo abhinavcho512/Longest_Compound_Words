@@ -26,7 +26,11 @@ This solution requires Java 8 or newer to run. To execute the program, follow th
            java Solution
 
 
-6.	The program will output the longest and second-longest compound words from the provided input file.
+
+   
+
+
+7.	The program will output the longest and second-longest compound words from the provided input file.
 
 Problem Understanding
 
