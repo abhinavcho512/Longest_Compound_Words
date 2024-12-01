@@ -16,16 +16,17 @@ This solution requires Java 8 or newer to run. To execute the program, follow th
 
 
 
-javac  Trie.java  Solution.java
+
+   	javac  Trie.java  Solution.java
 
 
-	5.	Run the Solution with:
+5.	Run the Solution with:
 
 
-java Solution
+           java Solution
 
 
-	6.	The program will output the longest and second-longest compound words from the provided input file.
+6.	The program will output the longest and second-longest compound words from the provided input file.
 
 Problem Understanding
 
